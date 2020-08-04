@@ -1,2 +1,2 @@
-# stepic-final-progect
+# stepik-final-progect
 repository for final project
